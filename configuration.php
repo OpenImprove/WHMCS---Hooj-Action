@@ -1,5 +1,0 @@
-<?php
-
-$databaseName = '';
-$databaseUsername = '';
-$databasePassword = '';
