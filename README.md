@@ -7,7 +7,7 @@ WHMCS module to automate several order management tasks. Here are the following 
 - Accept order on successful payment
 
 # Installation
-1. Download the [latest release](https://github.com/dylanhansch/whmcs-order-management/releases/latest).
+1. Download the [latest release]([https://github.com/AdanBocardoAlvarez/WHMCS---Hooj-Action]).
 2. Copy the "order_management" folder to your WHMCS installation (located within "modules/addons/").
 
 # Contributions
